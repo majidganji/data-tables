@@ -1,5 +1,5 @@
 {
-    "name": "majid/data-tables",
+    "name": "laravel/data-tables",
     "description": "DataTables for laravel",
     "authors": [
         {
@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "majid\\dataTables\\": "src/"
+            "laravel\\dataTables\\": "src/"
         }
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace majid\dataTables;
+namespace laravel\dataTables;
 
 use Illuminate\Support\ServiceProvider;
 
