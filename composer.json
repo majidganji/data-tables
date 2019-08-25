@@ -1,5 +1,5 @@
 {
-    "name": "laravel/data-tables",
+    "name": "majidganji/data-tables",
     "description": "DataTables for laravel",
     "authors": [
         {
@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "laravel\\dataTables\\": "src/"
+            "majidganji\\dataTables\\": "src/"
         }
     }
 }

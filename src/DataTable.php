@@ -1,6 +1,6 @@
 <?php
 
-namespace laravel\dataTables;
+namespace majidganji\dataTables;
 
 use function array_column;
 use function array_filter;
